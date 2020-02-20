@@ -1,0 +1,9 @@
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\bin\Debug\Adefinir.exe.config
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\bin\Debug\Adefinir.exe
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\bin\Debug\Adefinir.pdb
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\obj\Debug\Adefinir.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\obj\Debug\Adefinir.Form1.resources
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\obj\Debug\Adefinir.Properties.Resources.resources
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\obj\Debug\Adefinir.csproj.GenerateResource.cache
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\obj\Debug\Adefinir.exe
+C:\Users\samue\Documents\Csharp\Adefinir\Adefinir\obj\Debug\Adefinir.pdb
